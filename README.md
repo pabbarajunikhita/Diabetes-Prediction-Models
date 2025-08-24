@@ -36,5 +36,3 @@ This independent project explores **predicting diabetes onset** using machine le
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 - **Skills Demonstrated:** Data cleaning, EDA, feature analysis, model building, evaluation, visualization  
-
-## Project Structure
